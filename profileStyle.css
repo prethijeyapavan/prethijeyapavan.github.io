@@ -1,0 +1,79 @@
+body{
+    background-image: linear-gradient(rgb(70, 106, 207),rgb(202, 217, 226));
+}
+h1{
+    color: rgb(20, 25, 96);
+}
+
+.box-1{
+    background-color: beige;
+    border-top: 5px red;
+    border-left: 5px red;
+    border-bottom: 5px red;
+    border-right: 5px red;
+}
+.box-2{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.box-1 h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+.box-3{
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+nav#mainnav{
+    background-color: rgb(200, 229, 233);
+}
+
+.myform{
+
+    background-color: grey;
+    color: blanchedalmond;
+    padding: 50px;
+    margin: 10px;
+}
+
+.button{
+    background-color: brown;
+    padding: 8px;
+    color: aliceblue;
+}
+
+img{
+    width: 30%;
+    margin: 1px auto;
+    display: block;
+}
+
+img {
+    border-radius: 50%;
+  }
+
+  nav#mainnav{
+    text-align: center;
+    border: 3px solid green;;
+}
+body{
+    font-family: Sofia, serif;
+}
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: Sofia, serif;
+}
+
+
